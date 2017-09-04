@@ -1,0 +1,36 @@
+.top-bar
+{
+	background-color: orange;
+}
+
+.navigation
+{
+	margin-top: 2%;
+}
+
+#ul li a : hover
+{
+   background-color: orange;
+}
+
+.my-menu
+{
+	margin-top: 1.5%;
+}
+
+.my-menu .navbar-default
+{
+	background: none;
+	border: none;
+}
+
+
+#ul li a:hover
+{
+	background-color: orange;
+}
+
+@media (max-width:1000px){
+	
+	.my-menu .pull-right{float: none; !important}
+}
